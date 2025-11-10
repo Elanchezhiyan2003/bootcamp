@@ -158,14 +158,14 @@ function App() {
               <div className="flex items-center gap-3">
                 <Mail className="w-6 h-6 text-purple-400 shrink-0" />
                 <div className="text-sm text-gray-300 break-all">
-                  eatekofficial@gmail.com
+                  info@eatek.in
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                {/* <Globe className="w-6 h-6 text-pink-400 shrink-0" /> */}
-                <Linkedin className="w-6 h-6 text-pink-400 shrink-0" />
-                <a href="https://www.linkedin.com/company/eatek" target="_blank" rel="noopener noreferrer" className="text-sm text-cyan-300 hover:text-cyan-200 ">
-                  EATek
+                <Globe className="w-5 h- text-pink-400 shrink-0" />
+                {/* <Linkedin className="w-6 h-6 text-pink-400 shrink-0" /> */}
+                <a href="https://www.eatek.in" target="_blank" rel="noopener noreferrer" className="text-sm text-cyan-300 hover:text-cyan-200 mb-1  ">
+                  eatek.in
                 </a>
               </div>
             </div>
