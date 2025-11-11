@@ -120,6 +120,7 @@ function App() {
                 <Calendar className="w-10 h-10 text-cyan-400 mx-auto mb-3" />
                 <div className="text-gray-300 text-sm mb-1">Dates</div>
                 <div className="text-xl font-bold">Nov 12 – 21, 2025</div>
+                <div className="text-md font-bold">Reg Last Date: Nov 12, 5PM</div>
               </div>
               <div className="bg-purple-500/10 rounded-xl p-6 border border-purple-400/30">
                 <Globe className="w-10 h-10 text-purple-400 mx-auto mb-3" />
