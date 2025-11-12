@@ -119,8 +119,9 @@ function App() {
               <div className="bg-blue-500/10 rounded-xl p-6 border border-blue-400/30">
                 <Calendar className="w-10 h-10 text-cyan-400 mx-auto mb-3" />
                 <div className="text-gray-300 text-sm mb-1">Dates</div>
-                <div className="text-xl font-bold">Nov 12 – 21, 2025</div>
-                <div className="text-md font-bold">Reg Last Date: Nov 12, 5PM</div>
+                <div className="text-xl font-bold">Coming Soon</div>
+                {/* <div className="text-xl font-bold">Nov 12 – 21, 2025</div>
+                <div className="text-md font-bold">Reg Last Date: Nov 12, 5PM</div> */}
               </div>
               <div className="bg-purple-500/10 rounded-xl p-6 border border-purple-400/30">
                 <Globe className="w-10 h-10 text-purple-400 mx-auto mb-3" />
@@ -139,14 +140,14 @@ function App() {
         <section className="mb-16">
           <div className="bg-gradient-to-br from-pink-500/20 to-purple-500/20 backdrop-blur-sm border-2 border-pink-400/50 rounded-3xl p-8 text-center shadow-2xl">
             <h3 className="text-3xl font-bold mb-6">Ready to Begin Your Journey?</h3>
-            <a
+            {/* <a
               href="https://forms.gle/tECszstGC7uuQ1F67"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-400 hover:to-purple-400 text-white font-bold text-xl px-12 py-4 rounded-full transition-all duration-300 hover:scale-110 hover:shadow-2xl hover:shadow-purple-500/50 mb-8"
             >
               Register Now
-            </a>
+            </a> */}
 
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto text-left">
               <div className="flex items-center gap-3">
